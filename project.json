@@ -1,0 +1,27 @@
+{
+    "dependencies": {},
+    "frameworks": {
+        "TNL.NET": {
+            "dependencies": {},
+            "frameworkAssemblies": {
+                "TNL.NET": "1.0.0"
+            }
+        }
+    },
+    "dotnet": {
+        "dependencies": {
+            "System.Data.SqlClient": "4.0.0-rc2-23530",
+            "System.Data": "4.0.0"
+        }
+    },
+    "version": "1.0.0-*",
+    "description": "Class Library",
+    "authors": [
+        "sadams"
+    ],
+    "tags": [
+        ""
+    ],
+    "projectUrl": "",
+    "licenseUrl": ""
+}
